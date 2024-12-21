@@ -1,0 +1,25 @@
+Network name : Localhost 8545
+
+Default RPC URL : 127.0.0.1:7545
+
+Chain ID : 1337
+
+Currency : ETH
+
+--------------------
+blockchain demo;
+https://andersbrownworth.com/blockchain/blockchain
+
+enc / dec
+
+https://www.devglan.com/online-tools/aes-encryption-decryption
+
+hash
+
+https://www.md5hashgenerator.com/
+------------------------
+eth demo software links
+
+1)https://archive.trufflesuite.com/ganache/
+2)https://metamask.io/
+

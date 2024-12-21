@@ -1,0 +1,36 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.17;
+/*
+contract datatypes{
+
+        int public num = 10;
+        int public num2 = -10;
+        int public num_max = type(int).max;
+        int public num_min= type(int).min;
+        uint public num3 = 75;
+        string public str = "hello";
+        bytes public str1 = "edunet";
+        address public addr = 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4;
+        bool public val = false;
+
+
+}
+
+contract fun{
+
+    function wish()public pure returns(string memory)
+    {
+        return "welcome all";
+    }
+}
+
+contract fun1{
+
+    string public wish ="Hello welcome all";
+    function happy()public view returns(string memory)
+    {
+        return wish;
+    }*/
+
+
+}
